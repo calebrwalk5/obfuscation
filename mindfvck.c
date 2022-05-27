@@ -1,3 +1,7 @@
+/*
+have fun :D
+anusO1
+*/
 int c;
 char * s = "{ }	;\n*";
 b() {
